@@ -30,7 +30,7 @@ const Cart=()=>{
          const data= await response.json();
 
          toast.loading('Redirecting....');
-         stripe.redirectToCheckOut({sessionId:data.id});
+         stripe.redirectToCheckout({sessionId:data.id});
      }
     return(
        <div className="cart-wrapper" ref={cartRef}>
