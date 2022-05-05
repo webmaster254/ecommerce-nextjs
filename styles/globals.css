@@ -160,7 +160,7 @@ width: 100%;
 }
 .hero-banner-container h1{
   color: white;
-  font-size: 10em;
+  font-size: 6em;
   margin-left: -20px;
   text-transform: uppercase;
 }
@@ -257,9 +257,11 @@ text-align: end;
 .banner-desc .right h3{
   font-weight: 800;
   font-size: 60px;
+  text-align: end;
 }
 .banner-desc .right p{
   font-size: 18px;
+  text-align: end;
 }
 .banner-desc .right .company-desc{
   font-size: 14px;
