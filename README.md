@@ -1,4 +1,5 @@
-**Modern Full Stack ECommerce Application with Stripe & Sanity
+
+**A Modern Full Stack ECommerce Application with Stripe & Sanity CMS
 
 [![WaSan4.md.png](https://iili.io/WaSan4.md.png)](https://freeimage.host/i/WaSan4)
 
